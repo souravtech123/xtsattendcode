@@ -6,7 +6,7 @@ const Code = () => {
 
   useEffect(  () => {
    
-     fetch('http://localhost:3000/qrcode')
+     fetch('https://attend-backend-hrqv.onrender.com')
      .then(res => res.json())
      .then(data => {
       setimg(data.Qrcode)
