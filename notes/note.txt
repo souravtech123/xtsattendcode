@@ -1,0 +1,15 @@
+qr code attendance marker 
+a simple qr code will be there 
+person can scan it enter the name sumbit the attendance
+
+
+for that 
+first things creating qrcode 
+after qrcode user add name and id number 
+then the username and id number sumbitted to a database automically
+
+
+so first sawal ha qrcode
+
+
+
